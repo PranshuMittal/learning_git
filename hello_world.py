@@ -1,1 +1,1 @@
-print("Hello World! This is my first program")
+print("Hello World! This program is for animals and plants")
